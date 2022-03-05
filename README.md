@@ -1,5 +1,4 @@
 ![pusheen](https://user-images.githubusercontent.com/87334528/156861803-999da92d-d70f-4ed6-b3a9-913e51bd5c86.gif)
-
  # 👋 Hi, I’m Ling!
  
 - 🌱 Currently working at Airtable on activation as a full-stack (React/Node/TypeScript) engineer. 
