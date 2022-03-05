@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ling!
-- 👀 I’m interested in video games, anime, and programming!
+- 👀 I’m interested in video games (apex, valorant/csgo), [anime](https://myanimelist.net/profile/blahblahboar), and programming!
 - 🌱 I’m currently learning: React/TypeScript.
 - 💞️ I’m looking to collaborate on fun things!
 - 📫 How to reach me: ling@airtable.com
