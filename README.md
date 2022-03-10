@@ -3,7 +3,7 @@
  
 - 🌱 Currently working at Airtable on activation as a full-stack (React/Node/TypeScript) engineer. 
 - ☃️ I'm originally from Canada, and I went to school at the University of Toronto.  
-- 👀 I’m interested in video games (apex, valorant/csgo), [anime](https://myanimelist.net/profile/blahblahboar), and programming!
+- 👀 I like: nice people, video games, drinking, [anime](https://myanimelist.net/profile/blahblahboar), and programming!
 - 📫 How to reach me: ling@airtable.com.
 
 <!---
