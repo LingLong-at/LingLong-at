@@ -5,7 +5,7 @@
     - Currently on the App Creation team. 🍄
     - Previously on the Growth Activation team. 🌱
 - ☃️ I'm originally from Canada, and I went to school at the University of Toronto.  
-- 👀 I like: nice people, video games, drinking, [anime](https://myanimelist.net/profile/blahblahboar), and programming!
+- 👀 I like: nice people, video games, running, [anime](https://myanimelist.net/profile/blahblahboar), and nice weather!
 - 📫 How to reach me: ling@airtable.com.
 
 <!---
